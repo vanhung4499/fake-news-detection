@@ -2,5 +2,7 @@
 
 **Đồ án cuối kì Nhập môn khoa học dữ liệu HCMUS**
 
-Họ tên: Nguyễn Văn Hùng
-MSSV: 1712222
+Họ tên: **Nguyễn Văn Hùng**
+
+MSSV: **1712222**
+
